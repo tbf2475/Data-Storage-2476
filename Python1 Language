@@ -1,0 +1,41 @@
+theia@theia-name:/home/project$ python3 --version
+Python 3.10.12
+theia@theia-name:/home/project$ cd welcome101
+theia@theia-name:/home/project/welcome
+101$ python3 welcome.py
+Welcome to the world of programming!
+theia@theia-name:/home/project/welcome
+101$ 
+theia@theia-name:/home/project/welcome
+101$ python3 --version
+Python 3.10.12
+theia@theia-name:/home/project/welcome
+101$ cd software101
+theia@theia-name:/home/project/welcome
+101/software101$ python3 software.py
+Software engineering is awesome!
+theia@theia-name:/home/project/welcome
+101/software101$ python3 software.py
+Software Engineering is awesome!
+theia@theia-name:/home/project/welcome
+101/software101$ python3 software.py
+Software Engineering is awesome!
+Tene You are awesome
+theia@theia-name:/home/project/welcome
+101/software101$ python3 software.py
+Software Engineering is awesome!
+Tene You are awesome
+Software Engineering is awesome!
+theia@theia-name:/home/project/welcome
+101/software101$ python3 software.py
+Software Engineering is awesome!
+Tene You are awesome
+Tene you have to keep studying hard so you can be successful
+theia@theia-name:/home/project/welcome101/software101$ 
+
+message= "Software Engineering is awesome!"
+print(message)
+message1= "Tene You are awesome"
+print(message1)
+message2= "Tene you have to keep studying hard so you can be successful"
+print(message2)
