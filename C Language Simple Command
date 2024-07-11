@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello World!\n");
+    return 0;
+}
+
+the output of this program will yield these instructions in the Terminal, see below
+theia@theia-teebfore:/home/project$ gcc -o hello helloworld.c
+theia@theia-teebfore:/home/project$ ./hello
+Hello World!
+theia@theia-teebfore:/home/project$ 
+
+yields the command Hello world!
+
